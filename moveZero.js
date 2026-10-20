@@ -25,7 +25,7 @@ function moveZero(nums){
             position++
 
         }
-    }
+    }  
 
     return nums
 
